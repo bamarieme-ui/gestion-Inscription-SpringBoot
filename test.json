@@ -1,0 +1,7 @@
+{
+  "date": "2026-07-24",
+  "etudiant": {"id": 1},
+  "formation": {"id": 1},
+  "niveau": {"id": 1},
+  "annee": {"id": 3}
+}
